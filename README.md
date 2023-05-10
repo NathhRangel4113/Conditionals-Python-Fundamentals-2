@@ -4,76 +4,73 @@ In this repository you can find 12 solved and simple exercises carried out throu
 The exercises are taken from a document sent by the teacher.
 ## Table of contents
 
--[Fundamentos](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#fundamentosdepython)
+-[Fundamentals](https://github.com/NathhRangel4113/Conditionals-Python-Fundamentals-2#python-fundamentals-2)
 
--[Main.py](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#mainpy)
+-[Main.py](https://github.com/NathhRangel4113/Conditionals-Python-Fundamentals-2#mainpy)
 
--[Ejercicios](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#ejercicios)
+-[Exercises](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#ejercicios)
 
-  [1. Area del triangulo](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [17. Positive and negative](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [2. Suma de numeros](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [18. Higher and lower between 2](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [3. Numero elevado al cuadrado](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [19. Higher and lower between 3](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [4. Suma 1234 y 532](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [20. Salary employes](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [5. Resta 1234 y 532](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [21. Addition and Substraction](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [6. Multiplicación 1234 y 532](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [22. Quotient](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [7. División 1234 entre 532](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [23. NumDay](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [8. Módulo 1234 entre 532](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [24. Type of triangle](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [9. Conversor Euros a Dólares](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [25. Addition or Multiplication](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [10. Área del rectángulo](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [26. Zodiac sign](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [11. Área y perimetro del cuadrado](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [27. Square or rectangle](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [12. Área y volúmen de un cilindro](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [28. Discount](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [13. Longitud y área de una circunferencia](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
+  [29. Leap year](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
   
-  [14. Promedio de tres números](https://github.com/NathhRangel4113/FundamentosDePython/edit/main/README.md#1-c%C3%B3digo-que-permita-calcular-el-%C3%A1rea-de-un-tri%C3%A1ngulo)
  
 ## Main.py
-Para poder empezar es importante aclarar el orden en que se ejecutarían los ejercicios, para esto se estableció un documento principal "1.0_main.py" en el cual se puede encontrar la función para ejecutar el documento con el ejercicio que se desea solamente teniendo en cuenta el número de cada uno.
-En este enlace se encuentra a detalle el código del documento principal.
+To be able to start, it is important to clarify the order in which the exercises would be executed. For this, a main document "1.0_main.py" was established, in which you can find the function to execute the document with the exercise that you want only taking into account the number of each.
+In this link you can find the code of the main document in detail.
 
-`<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/commit/668958932e3eb34778e0f18202e20cd6ee6c0d64>
+`<link>` : <https://github.com/NathhRangel4113/Conditionals-Python-Fundamentals-2/blob/main/main.py)>
 
-Los ejericios realizados son los siguientes:
+The exercises carried out are the following:
 
-## Ejercicios:
-#### 1. Código que permita calcular el área de un triángulo.
+## Exercises:
+#### 17. Write the code necessary to know if a number is positive or negative..
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/1_area_triangulo.py>
-#### 2. Código para introducir dos números por teclado y sumarlos.
+#### 18. Write a Python program that reads two numbers from the keyboard and says which is larger and which is smaller minor.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/2_Suma.py>
-#### 3. Código para introducir un número por teclado y visualizar el número elevado al cuadrado.
+#### 19. Write a program that reads three positive integers, and calculates and prints on the screen the smallest and largest of all.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/3_elevado_al_cuadrado.py>
-#### 4. Escribir un programa que imprima por pantalla la suma de 1234 y 532.
+#### 20. Calculate the salary of the employees of a company. To do this, you must ask for the name of the employee, normal hours worked and overtime. Note that the value of time is of $4 and that overtime is paid double.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/4_Suma_de.py>
-#### 5. Escribir un programa que imprima por pantalla la resta de 1234 y 532.
+#### 21. Given two numbers A and B, add them if A is less than B, otherwise subtract them.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/5_Resta_de.py>
-#### 6. Escribir un programa que imprima por pantalla la multiplicación de 1234 y 532
+#### 22. Given two numbers A and B, find the quotient between A and B. Remember that division by zero is not defined, in this case a legend must appear announcing that the division is not possible.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/6_Multiplicacion_de.py>
-#### 7. Escribir un programa que imprima por pantalla la división de 1234 entre 532
+#### 23. numDay is a numeric variable that can take 7 values, they are 1, 2, 3, 4, 5, 6 or 7. Show the name the name of the day of the week that corresponds to the value of the variable numDay.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/7_Division_de.py>
-#### 8. Escribir un programa que imprima por pantalla el módulo de 1234 entre 532
+#### 24. Given the lengths of the three sides of a triangle, determine if it is equilateral or not.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/8_Modulo_de.py>
-#### 9. Escribir un programa que convierta de euros a dólares. Recibirá un número decimal correspondiente a la cantidad en euros y contestará con la cantidad correspondiente en dólares.
+#### 25. Given two numbers A and B add them if at least one of them is negative otherwise multiply them.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/9_Conversor_euros.py>
-#### 10. Escribir un programa que calcule el área de un rectángulo del cual se le proporcionará por el teclado su altura y anchura (números decimales).
+#### 26. Asking for the day and month of birth to show the zodiac sign.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/10_area_rectangulo.py>
-#### 11. Escribir un algoritmo que pida el lado de un cuadrado y muestre el valor del área y del perímetro.
+#### 27. Asking for the entry of the base and the height of a quadrilateral, indicate if it is square or rectangle. For either case show the perimeter and area of the figure.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/11_area_y_perimetro_cuadrado.py>
-#### 12. Diseñar un algoritmo que determine el área y el volumen de un cilindro.
+#### 28. A business makes discounts on the sales of its products. If the purchase is less than $100 the discount is 5%, if it is greater than or equal to 100 and less than 200 the discount is 10% otherwise it will be 15%. Given the sale price, show the discount made in pesos and the final discounted price.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/12_area_y_volumen_cilindro.py>
-#### 13. Realizar un algoritmo que lea el radio de una circunferencia y escriba la longitud de la misma, y el área (Pi*R) ^2 del círculo inscrito.
+#### 29. Write an algorithm that determines if a year is a leap year or not.
 `<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/13_area_y_longitud_circunferencia.py>
-#### 14. Calcular el promedio de tres números introducidos por teclado.
-`<link>` : <https://github.com/NathhRangel4113/FundamentosDePython/blob/main/14_Promedio_numeros.py>
 
-Muchas gracias por revisar mi respositorio <3
+Thank you very much for checking out my repository <3
